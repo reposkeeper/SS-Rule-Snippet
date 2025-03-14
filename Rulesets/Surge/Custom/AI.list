@@ -1,0 +1,18 @@
+DOMAIN-SUFFIX,openapi.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+
+# bing and Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-KEYWORD,bing
+
+# perplexity.ai
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,perplexity.ai
